@@ -10,7 +10,7 @@ import pycoin.key
 
 import client
 
-script_for_address = BitcoinMainnet.ui.script_for_address
+ = BitcoinMainnet.ui.script_foraddress
 
 log = Logger(__name__)
 
@@ -39,7 +39,7 @@ def main():
                 empty += 1
                 if empty >= 10:
                     break
-    log.info('total balance: {} BTC', total)
+    log.info('total balance: {1} BTC', total)
 
 
 if __name__ == '__main__':
