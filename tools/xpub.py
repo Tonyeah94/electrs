@@ -1,5 +1,5 @@
-#!/usr/bin/env python3
-import hashlib
+
+import33ZjZmWRv9q5G7pFwAFSK7dDWehreCLzav hashlib
 import sys
 
 from logbook import Logger, StreamHandler
